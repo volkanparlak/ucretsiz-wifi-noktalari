@@ -1,0 +1,447 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "id":"ID_00000",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.38098400915017,
+               40.74997086051703,
+               0
+            ]
+         },
+        "properties": {
+    "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\n</head>\n\n<body>\n\n<table>\n\n<tr>\n\n<td></td>\n\n</tr>\n\n<tr>\n\n<td>\n\n<table>\n\n<tr>\n\n<td>FID</td>\n\n<td>0</td>\n\n</tr>\n\n<tr>\n\n<td>objectid</td>\n\n<td>5196</td>\n\n</tr>\n\n<tr>\n\n<td>İl</td>\n\n<td>SAKARYA</td>\n\n</tr>\n\n<tr>\n\n<td>İlçe</td>\n\n<td>ADAPAZARI</td>\n\n</tr>\n\n<tr>\n\n<td>Mahalle</td>\n\n<td>MALTEPE</td>\n\n</tr>\n\n<tr>\n\n<td>Ad</td>\n\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n\n</tr>\n\n<tr>\n\n<td>Kategori</td>\n\n<td>Belediye Yerel Hizmet Noktaları</td>\n\n</tr>\n\n<tr>\n\n<td>Adres</td>\n\n<td>Maltepe Mah. 560.Sk Maltepe Park Adakule</td>\n\n</tr>\n\n<tr>\n\n<td>Açıklama</td>\n\n<td>SBB Bilgi İşlem Dairesi Başkanlığı</td>\n\n</tr>\n\n<tr>\n\n<td>aktaran</td>\n\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n\n</tr>\n\n<tr>\n\n<td>aktarimtar</td>\n\n<td>18.09.2023</td>\n\n</tr>\n\n</table>\n\n</td>\n\n</tr>\n\n</table>\n\n</body>\n\n</html>\n\n",
+    "altitudeMode": "clampToGround"
+    }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00001",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.31756524725796,
+               40.85723943910944,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>1</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>141</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>15 TEMMUZ CAMİLİ</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Yenikent Park</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Camili Mah. Beyazıt Cad. No: 12 Adapazarı / SAKARYA</td>\n</tr>\n<tr>\n\n<td></td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00002",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.42978035435021,
+               40.77007069409167,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>2</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4792</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>TEPEKUM</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Tepekum Mahallesi Şantiye Sokak</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>Makine İkmal</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00003",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.40269600243532,
+               40.77784560978354,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+            "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>3</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4791</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>CUMHURİYET</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Kavaklar Caddesi No:7 54100 Adapazarı/SAKARYA</td>\n</tr>\n<tr>\n\n<td></td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+            "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00004",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.40302800121881,
+               40.77800664343575,
+               0
+            ]
+         },
+         "properties":{
+           "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>4</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4793</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>CUMHURİYET</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Kavaklar Caddesi No:7 54100 Adapazarı/SAKARYA</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>Sakarya Büyükşehir Belediyesi Poliklinik Binası</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00005",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.38903435938909,
+               40.77145933440982,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>5</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>140</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>MİTHATPAŞA</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Kentpark</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Mithatpaşa Mah Eski Zirai Donatım Kurumu Bahçesi, 54100 Adapazarı/Sakarya</td>\n</tr>\n<tr>\n\n<td></td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00006",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.39085057102621,
+               40.75847302016744,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>6</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4794</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>GÜLLÜK</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Güllük Mahallesi, sağlık caddesi, No:1/E, 54100 Akom (Afet Koordinasyon Merkezi)/Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Afet Koordinasyon Merkezi (AKOM)</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00007",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.41737494251283,
+               40.7402594142654,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>7</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>142</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ERENLER</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>YENİ</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Park</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Yeni , Sakarya Cd No:40, 54100 Erenler/Sakarya</td>\n</tr>\n<tr>\n\n<td></td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00008",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.40595885387321,
+               40.77359112824441,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>8</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4795</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>TIĞCILAR</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td></td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Çevre Koruma ve Kontrol Dairesi Başkanlığı</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00009",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.38715653703619,
+               40.76577959592517,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>9</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>5197</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>MİTHATPAŞA</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td></td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB İtfaiye Dairesi Başkanlığı</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00010",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.39887782201786,
+               40.76567699823703,
+               0
+            ]
+         },
+         "properties":{
+           "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>10</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4796</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ERENLER</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>DİLMEN</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td></td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Fen İşleri, Deprem Risk Yönetimi ve Kentsel İyileştirme, Strateji Geliştirme, Zabıta Daire Başkanlıkları</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00011",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.40176387916588,
+               40.77694256709607,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>11</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4797</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>CUMHURİYET</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Cumhuriyet, Atatürk Blv. No:11, 54100 Adapazarı/Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Kültür ve Sosyal İşler Dairesi Başkanlığı</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00012",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.36770515738795,
+               40.76895025373524,
+               0
+            ]
+         },
+         "properties":{
+           "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>12</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>5597</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>SERDİVAN</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>İSTİKLAL</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>İstiklal, Asem Küçük Sanayi Sitesi No:24, 54050 Serdivan/Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Gençlik ve Spor Hizmetleri Dairesi Başkanlığı</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00013",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.39049512186228,
+               40.77125414575124,
+               0
+            ]
+         },
+         "properties":{
+           "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>13</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4799</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>MİTHATPAŞA</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Mithatpaşa Mah Eski Zirai Donatım Kurumu Bahçesi, 54100 Adapazarı/Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB İmar Şehircilik Dairesi Başkanlığı</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00014",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.37992934373193,
+               40.72972860918734,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>14</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>136</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ARİFİYE</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>HANLIKÖY</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Terminali</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Hanlıköy, Arifiye Caddesi, 54580 Arifiye/Sakarya</td>\n</tr>\n<tr>\n\n<td></td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00015",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.40527700090415,
+               40.7579337962565,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>15</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4800</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ERENLER</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>ERENLER</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td></td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Ulaşım, Tarımsal Hizmetler, Destek Hizmetleri, Muhtarlık İşleri Daire Başkanlıkları</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00016",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.42948987296674,
+               40.75448469590848,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>16</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4798</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ERENLER</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>KÜPÇÜLER</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Küpçüler, 1192. Sk. No:45, 54100 Adapazarı/Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Yol Bakım ve Altyapı Koordinasyon Dairesi Başkanlığı</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00017",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.39141320291971,
+               40.77176363943754,
+               0
+            ]
+         },
+         "properties":{
+           "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>17</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4801</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>MİTHATPAŞA</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya BB Faik Baysal Kütüphanesi</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Semerciler, 54100 Adapazarı/Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Faik Baysal Kütüphanesi</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00018",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.38802557365147,
+               40.76996389853709,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>18</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>5198</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>MİTHATPAŞA</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Ofis Sanat Merkezi (OSM)</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Mithatpaşa Mah Eski Zirai Donatım Kurumu Bahçesi, 54100 Adapazarı/Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>Sakarya BB Ofis Sanat Merkezi (OSM)</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00019",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.41543750498732,
+               40.77827487316531,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>19</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4802</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>YAĞCILAR</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Yorgalar Mezarlığı</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Mezarlıklar Dairesi Başkanlığı</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00020",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.43082804548764,
+               40.77093657371158,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>20</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>5199</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>TEPEKUM</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td></td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Park ve Bahçeler Dairesi Başkanlığı</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00021",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.39275889628997,
+               40.75905215095312,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>21</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4803</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>GÜLLÜK</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Büyükşehir Belediyesi Ek Hizmet Binası</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Güllük, No:, Zübeyde Hanım Cd. Otogar No:56, 54100 Adapazarı/Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Sosyal Hizmetler Dairesi Başkanlığı</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00022",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.39843520123718,
+               40.7804526011676,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>22</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4804</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>CUMHURİYET</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya Alicanlar Konağı</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Bahçıvan Sk. No:30, 54100 Adapazarı/Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>SBB Alicanlar Konağı</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00023",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.38596069060402,
+               40.75561878080906,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>23</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>5200</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>ŞİRİNEVLER</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>ORMANPARK</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Şirinevler Mah. Adnan Menderes Cad.No: 293-A Adapazarı / SAKARYA</td>\n</tr>\n<tr>\n\n<td></td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00024",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.38898584881939,
+               40.77025058694542,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>24</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>5201</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>MİTHATPAŞA</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>Sakarya BB Uçak Kıraathanesi</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Semerciler Mh. Parlak Sk. No:37 Kat:2 Adapazarı / Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>Sakarya Büyükşehir Belediyesi Uçak Kafe</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      },
+      {
+         "type":"Feature",
+         "id":"ID_00025",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.37526910998777,
+               40.75538889359338,
+               0
+            ]
+         },
+         "properties":{
+            "name": "",
+    "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\n\n<head>\n<META http-equiv=\"Content-Type\" content=\"text/html\">\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n</head>\n<body>\n<table>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>\n<table>\n<tr>\n<td>FID</td>\n<td>25</td>\n</tr>\n<tr>\n<td>objectid</td>\n<td>4806</td>\n</tr>\n<tr>\n<td>İl</td>\n<td>SAKARYA</td>\n</tr>\n<tr>\n<td>İlçe</td>\n<td>ADAPAZARI</td>\n</tr>\n<tr>\n<td>Mahalle</td>\n<td>ŞİRİNEVLER</td>\n</tr>\n<tr>\n<td>Ad</td>\n<td>VAGON KIRAATHANESİ</td>\n</tr>\n<tr>\n<td>Kategori</td>\n<td>Belediye Yerel Hizmet Noktaları</td>\n</tr>\n<tr>\n<td>Adres</td>\n<td>Şirinevler, 922. Sk No:15, 54100 Adapazarı/Sakarya</td>\n</tr>\n<tr>\n<td>Açıklama</td>\n<td>Sakarya Büyükşehir Belediyesi Vagon Kafe</td>\n</tr>\n<tr>\n<td>aktaran</td>\n<td>Coğrafi Bilgi Sistemleri Şube Müdürlüğü</td>\n</tr>\n<tr>\n<td>aktarimtar</td>\n<td>18.09.2023</td>\n</tr>\n</table>\n</td>\n</tr>\n</table>\n</body>\n</html>\n",
+    "altitudeMode": "clampToGround"
+         }
+      }
+   ]
+}

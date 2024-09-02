@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ücretsiz Wi-Fi Noktaları</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="icon" href="https://www.erenler.bel.tr/favicon.ico">
+</head>
+<body class="day-mode">
+    <hr>
+    <div style="text-align: center;">
+        <a href="/">
+            <img src="https://www.erenler.bel.tr/assets/img/logo/logo.svg" width="200" height="200" />
+        </a>
+        <hr>
+    </div>
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mt-4 mb-3">
+            <h1 style="font-size: 24px; font-weight: bold; color: #336699;">Ücretsiz Wi-Fi Noktaları</h1>
+            <button id="toggleTheme" class="btn btn-secondary btn-night-mode" title="Gece/Gündüz Modu">
+                <i class="ri-sun-line"></i>
+            </button>
+        </div>
+        <hr>
+        <div id="map"></div>
+        <hr>
+        <h2 class="mt-4"><i class="ri-file-list-line"></i> Wi-Fi Noktaları Listesi</h2>
+        <hr>
+        <div id="locationsList" class="row"></div>
+        <hr>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
