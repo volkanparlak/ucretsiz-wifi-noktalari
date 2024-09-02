@@ -1,3 +1,5 @@
+<img src="https://github.com/volkanparlak/ucretsiz-wifi-noktalari/blob/main/kisavideo.gif?raw=true" width="auto">
+
 Kullanıcıların ücretsiz Wi-Fi noktalarını kolayca bulmalarını sağlamak amacıyla geliştirilmiş bir web uygulamasıdır.
 
 Uygulama, bir harita arayüzü kullanarak Wi-Fi lokasyonlarını görsel olarak sunar ve kullanıcıların arama yaparak belirli Wi-Fi noktalarını bulmalarına olanak tanır.
